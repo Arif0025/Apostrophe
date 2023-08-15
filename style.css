@@ -551,6 +551,9 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
+.social-media a{
+    color: black;
+}
 
 
 /* responsive media query start */
