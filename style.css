@@ -537,6 +537,11 @@ section .title::after{
   color: rgb(0, 255, 221);
   background: none;
 }
+.social-media a {
+    color: rgb(o,255,221);
+    align-items: center;
+}
+
 /* footer section styling */
 footer{
     background: #111;
@@ -681,8 +686,4 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
-}
-.socialmedia a {
-    color: aqua;
-    align-items: center;
 }
