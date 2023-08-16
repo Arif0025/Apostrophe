@@ -557,7 +557,11 @@ footer span a:hover{
     text-decoration: underline;
 }
 .social-media a{
-    color: black;
+    color: rgb(0, 255, 221);
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 15px;
+    display: inline-block;
 }
 
 
